@@ -1,0 +1,2 @@
+Projeto realizado no final do segundo semestre da faculdade, se trata de um sistema para controlar a retirada de notebooks da biblioteca da feevale, sistema foi feito em Java,
+as principais funcionalidades são: retirada do notebook, consulta de histórico de retiradas, busca na base de dados utilizando filtros e a devolução dos notebooks, todas as funcionalidades estão com seus devidos tratamentos de erros
